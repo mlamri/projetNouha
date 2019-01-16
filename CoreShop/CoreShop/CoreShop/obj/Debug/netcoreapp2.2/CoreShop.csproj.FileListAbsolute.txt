@@ -1,0 +1,14 @@
+C:\Users\Perso\source\repos\CoreShop\CoreShop\bin\Debug\netcoreapp2.2\CoreShop.deps.json
+C:\Users\Perso\source\repos\CoreShop\CoreShop\bin\Debug\netcoreapp2.2\CoreShop.runtimeconfig.json
+C:\Users\Perso\source\repos\CoreShop\CoreShop\bin\Debug\netcoreapp2.2\CoreShop.runtimeconfig.dev.json
+C:\Users\Perso\source\repos\CoreShop\CoreShop\bin\Debug\netcoreapp2.2\CoreShop.dll
+C:\Users\Perso\source\repos\CoreShop\CoreShop\bin\Debug\netcoreapp2.2\CoreShop.pdb
+C:\Users\Perso\source\repos\CoreShop\CoreShop\obj\Debug\netcoreapp2.2\CoreShop.csprojAssemblyReference.cache
+C:\Users\Perso\source\repos\CoreShop\CoreShop\obj\Debug\netcoreapp2.2\CoreShop.csproj.CoreCompileInputs.cache
+C:\Users\Perso\source\repos\CoreShop\CoreShop\obj\Debug\netcoreapp2.2\CoreShop.RazorAssemblyInfo.cache
+C:\Users\Perso\source\repos\CoreShop\CoreShop\obj\Debug\netcoreapp2.2\CoreShop.RazorAssemblyInfo.cs
+C:\Users\Perso\source\repos\CoreShop\CoreShop\obj\Debug\netcoreapp2.2\CoreShop.AssemblyInfoInputs.cache
+C:\Users\Perso\source\repos\CoreShop\CoreShop\obj\Debug\netcoreapp2.2\CoreShop.AssemblyInfo.cs
+C:\Users\Perso\source\repos\CoreShop\CoreShop\obj\Debug\netcoreapp2.2\CoreShop.RazorTargetAssemblyInfo.cache
+C:\Users\Perso\source\repos\CoreShop\CoreShop\obj\Debug\netcoreapp2.2\CoreShop.dll
+C:\Users\Perso\source\repos\CoreShop\CoreShop\obj\Debug\netcoreapp2.2\CoreShop.pdb
